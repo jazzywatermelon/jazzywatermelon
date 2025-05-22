@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jazzywatermelon/jazzywatermelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
-
 ###**I'm jazzywatermelon! Hajimemashite!**###
 <body>
 <p>Coding is **totally** cool. It's the language of the computer, and I'm so curious about you all and how you work! I'd love to make some new friends--you're all so creative, so don't mind me barging in like a <pstyle="color:#f769f0;>space invader</p>:D</br>
